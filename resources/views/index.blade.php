@@ -9,7 +9,7 @@
   <meta name="keywords" content="">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/bww.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Fonts -->
@@ -50,33 +50,15 @@
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="index.html" class="active">Home<br></a></li>
-          <li><a href="about.html">About</a></li>
-          <li><a href="services.html">Services</a></li>
-          <li><a href="pricing.html">Pricing</a></li>
-          <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-            <ul>
-              <li><a href="#">Dropdown 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-                <ul>
-                  <li><a href="#">Deep Dropdown 1</a></li>
-                  <li><a href="#">Deep Dropdown 2</a></li>
-                  <li><a href="#">Deep Dropdown 3</a></li>
-                  <li><a href="#">Deep Dropdown 4</a></li>
-                  <li><a href="#">Deep Dropdown 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Dropdown 2</a></li>
-              <li><a href="#">Dropdown 3</a></li>
-              <li><a href="#">Dropdown 4</a></li>
-            </ul>
-          </li>
-          <li><a href="contact.html">Contact</a></li>
+          <li><a href="index.html" class="active">Beranda<br></a></li>
+          <li><a href="about.html">Tentang</a></li>
+          <li><a href="services.html">Layanan</a></li>
+          <li><a href="contact.html">Kontak</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
 
-      <a class="btn-getstarted" href="get-a-quote.html">Get a Quote</a>
+      <a class="btn-getstarted" href="https://wa.me/62895396196740" target="_blank">Reservasi</a>
 
     </div>
   </header>
@@ -91,36 +73,38 @@
       <div class="container">
         <div class="row gy-4 d-flex justify-content-between">
           <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
-            <h2 data-aos="fade-up">Pengelola Air Limbah Cair (IPAL)</h2>
-            <p data-aos="fade-up" data-aos-delay="100">Bali Waster Water adalah perusahaan yang berlokasi di Denpasar, Bali, Indonesia. Perusahaan ini bergerak di bidang konstruksi sistem pengolahan air limbah cair (IPAL). Selain itu Bali Waste Water memproduksi tanki pengolahan air limbah.  Sistem IPAL kami telah diaplikasikan untuk berbagai macam jenis bangunan seperti Rumah Sakit, Klinik, Hotel, Villa dan lain – lainnya. Sistem IPAL kami dijamin mampu memenuhi standar baku mutu lingkungan yang telah ditetapkan oleh pemerintah Republik Indonesia. Perusahaan kami telah terdaftar di Kementrian Lingkungan Hidup dan mendapatkan sertifikat produk ramah lingkungan </p>
+            <h2 data-aos="fade-up">Bali Waste Water</h2>
+            <p data-aos="fade-up" data-aos-delay="100">
+              Bali Waste Water merupakan perusahaan yang bergerak di bidang perencanaan, pembangunan, perbaikan dan perawatan Instalasi Pengolahan Air Limbah (IPAL). Visi kami adalah menjadi perusahaan global dalam penyediaan jasa perencanaan, pembangunan dan pemeliharaan IPAL dengan layanan paripurna, terpercaya, dan mematuhi regulasi lingkungan dengan inovasi berkelanjutan serta didukung oleh teknisi bersertifikat. Misi kami sebagai perusahaan penyedia jasa konstruksi IPAL dan pengurusan perizinan IPAL yang memberikan solusi tepat dalam Pengelolaan Air Limbah, memberikan jasa perawatan IPAL dengan layanan lengkap dan harga yang kompetitif, berkomitmen dalam memenuhi ketentuan pengelolaan lingkungan.
+            </p>
 
             <div class="row gy-4" data-aos="fade-up" data-aos-delay="300">
 
               <div class="col-lg-3 col-6">
                 <div class="stats-item text-center w-100 h-100">
                   <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="0" class="purecounter">232</span>
-                  <p>Clients</p>
+                  <p>Pelanggan</p>
                 </div>
               </div><!-- End Stats Item -->
 
               <div class="col-lg-3 col-6">
                 <div class="stats-item text-center w-100 h-100">
                   <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="0" class="purecounter">521</span>
-                  <p>Projects</p>
+                  <p>Proyek</p>
                 </div>
               </div><!-- End Stats Item -->
 
               <div class="col-lg-3 col-6">
                 <div class="stats-item text-center w-100 h-100">
                   <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="0" class="purecounter">1453</span>
-                  <p>Support</p>
+                  <p>Kerjasama</p>
                 </div>
               </div><!-- End Stats Item -->
 
               <div class="col-lg-3 col-6">
                 <div class="stats-item text-center w-100 h-100">
                   <span data-purecounter-start="0" data-purecounter-end="32" data-purecounter-duration="0" class="purecounter">32</span>
-                  <p>Workers</p>
+                  <p>Pekerja</p>
                 </div>
               </div><!-- End Stats Item -->
 
@@ -147,9 +131,9 @@
           <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
             <div class="icon flex-shrink-0"><i class="fa-solid fa-cart-flatbed"></i></div>
             <div>
-              <h4 class="title">Lorem Ipsum</h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-              <a href="#" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a>
+              <h4 class="title">100% Terpercaya</h4>
+              <p class="description">Bali Waste Water telah dipercaya oleh masyarakat Indonesia untuk menangani limbah air.</p>
+              <!-- <a href="#" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a> -->
             </div>
           </div>
           <!-- End Service Item -->
@@ -157,18 +141,18 @@
           <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
             <div class="icon flex-shrink-0"><i class="fa-solid fa-truck"></i></div>
             <div>
-              <h4 class="title">Dolor Sitema</h4>
-              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
-              <a href="#" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a>
+              <h4 class="title">Instalasi Cepat</h4>
+              <p class="description">Proses pengerjaan dapat dilakukan dengan cepat dan sesuai dengan estimasi pengerjaan.</p>
+              <!-- <a href="#" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a> -->
             </div>
           </div><!-- End Service Item -->
 
           <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="300">
             <div class="icon flex-shrink-0"><i class="fa-solid fa-truck-ramp-box"></i></div>
             <div>
-              <h4 class="title">Sed ut perspiciatis</h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
-              <a href="#" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a>
+              <h4 class="title">Bergaransi</h4>
+              <p class="description">Semua proses dan barang yang anda beli sudah terlindungi oleh garansi.</p>
+              <!-- <a href="#" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a> -->
             </div>
           </div><!-- End Service Item -->
 
@@ -191,9 +175,9 @@
           </div>
 
           <div class="col-lg-6 content order-last  order-lg-first" data-aos="fade-up" data-aos-delay="100">
-            <h3>About Us</h3>
+            <h3>Bali Waste Water</h3>
             <p>
-              Dolor iure expedita id fuga asperiores qui sunt consequatur minima. Quidem voluptas deleniti. Sit quia molestiae quia quas qui magnam itaque veritatis dolores. Corrupti totam ut eius incidunt reiciendis veritatis asperiores placeat.
+              Bali Waste Water adalah sebuah perusahaan yang berlokasi di Denpasar, Bali, Indonesia. Perusahaan ini bergerak dalam bidang konstruksi sistem instalasi pengolahan air limbah cair (IPAL) dan memproduksi tangki pengolahan air limbah. Sistem IPAL yang dikembangkan oleh perusahaan ini telah diterapkan pada berbagai jenis bangunan, seperti rumah sakit, klinik, hotel, vila, dan lainnya. Bali Waste Water menjamin bahwa sistem IPAL yang mereka hasilkan mampu memenuhi standar baku mutu lingkungan yang ditetapkan oleh pemerintah Republik Indonesia. Selain itu, perusahaan ini telah terdaftar di Kementerian Lingkungan Hidup dan memperoleh sertifikasi sebagai produk ramah lingkungan.
             </p>
             <ul>
               <li>
@@ -210,13 +194,6 @@
                   <p>Quo totam dolorum at pariatur aut distinctio dolorum laudantium illo direna pasata redi</p>
                 </div>
               </li>
-              <li>
-                <i class="bi bi-broadcast"></i>
-                <div>
-                  <h5>Voluptatem et qui exercitationem</h5>
-                  <p>Et velit et eos maiores est tempora et quos dolorem autem tempora incidunt maxime veniam</p>
-                </div>
-              </li>
             </ul>
           </div>
 
@@ -231,9 +208,9 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <span>Our Services<br></span>
-        <h2>Our ServiceS</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <span>Layanan<br></span>
+        <h2>Layanan</h2>
+        <p>Kami menyediakan beberapa layanan yang dapat membantu anda mengatasi permasalahan limbar air</p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -243,54 +220,54 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/service-1.jpg" alt="" class="img-fluid">
+                <img src="assets/img/2.png" alt="" class="img-fluid">
               </div>
-              <h3>Storage</h3>
-              <p>Cumque eos in qui numquam. Aut aspernatur perferendis sed atque quia voluptas quisquam repellendus temporibus itaqueofficiis odit</p>
+              <h3>Perencanaan</h3>
+              <p>Kami menyediakan insinyur ahli yang berpengalaman dalam proyek untuk membantu anda dalam mempersiapkan rencana dan desain untuk memastikan bahwa peralatan yang dipasang dapat mencapai hasil yang optimal</p>
             </div>
           </div><!-- End Card Item -->
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/service-2.jpg" alt="" class="img-fluid">
+                <img src="assets/img/3.png" alt="" class="img-fluid">
               </div>
-              <h3><a href="#" class="stretched-link">Logistics</a></h3>
-              <p>Asperiores provident dolor accusamus pariatur dolore nam id audantium ut et iure incidunt molestiae dolor ipsam ducimus occaecati nisi</p>
+              <h3><a href="#" class="stretched-link">Instalasi</a></h3>
+              <p>Kami menyediakan jasa instalasi sistem pengolahan air limbah yang telah dilakukan di seluruh Indonesia. Konstruksi dan pemasangan dapat dilakukan menyesuaikan dengan situasi dan waktu yang diperlukan dan didukung oleh teknisi dan insinyur berpengalaman di bidang lingkungan, sipil, mekanik dan teknik</p>
             </div>
           </div><!-- End Card Item -->
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/service-3.jpg" alt="" class="img-fluid">
+                <img src="assets/img/4.png" alt="" class="img-fluid">
               </div>
-              <h3><a href="#" class="stretched-link">Cargo</a></h3>
-              <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
+              <h3><a href="#" class="stretched-link">Pengujian</a></h3>
+              <p>Setelah instalasi, kami akan memastikan bahwa sistem telah diinstal dengan benar. Tim kami akan melakukan pengujian, serta melakukan pelatihan bagi para pengguna manajemen data yang akan dikaitkan dengan sistem yang diinstal. </p>
             </div>
           </div><!-- End Card Item -->
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/service-4.jpg" alt="" class="img-fluid">
+                <img src="assets/img/5.png" alt="" class="img-fluid">
               </div>
-              <h3><a href="#" class="stretched-link">Trucking</a></h3>
-              <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
+              <h3><a href="#" class="stretched-link">Pemeliharaan</a></h3>
+              <p>Kami juga menyediakan program pemeliharaan kontrak untuk menjaga agar sistem selalu bekerja secara optimal dan memastikan ia memiliki mesin yang relatif optimal</p>
             </div>
           </div><!-- End Card Item -->
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/service-5.jpg" alt="" class="img-fluid">
+                <img src="assets/img/6.png" alt="" class="img-fluid">
               </div>
-              <h3>Packaging</h3>
-              <p>Illo consequuntur quisquam delectus praesentium modi dignissimos facere vel cum onsequuntur maiores beatae consequatur magni voluptates</p>
+              <h3>Perbaikan</h3>
+              <p>Untuk memastikan keamanan dan kepuasan pelanggan, kami menyiapkan pemeliharaan dan Suku Cadang untuk mengantisipasi kerusakan yang mungkin timbul atau penggantian suku cadang saat diperlukan</p>
             </div>
           </div><!-- End Card Item -->
 
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+          <!-- <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
             <div class="card">
               <div class="card-img">
                 <img src="assets/img/service-6.jpg" alt="" class="img-fluid">
@@ -298,7 +275,8 @@
               <h3><a href="#" class="stretched-link">Warehousing</a></h3>
               <p>Quas assumenda non occaecati molestiae. In aut earum sed natus eatae in vero. Ab modi quisquam aut nostrum unde et qui est non quo nulla</p>
             </div>
-          </div><!-- End Card Item -->
+          </div> -->
+          <!-- End Card Item -->
 
         </div>
 
@@ -330,79 +308,76 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <span>Features</span>
-        <h2>Features</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <span>Produk Kami</span>
+        <h2>Produk Kami</h2>
+        <p>Kami menyediakan produk-produk yang berkualitas untuk mengatasi permasalahan air di lingkungan anda</p>
       </div><!-- End Section Title -->
 
       <div class="container">
 
         <div class="row gy-4 align-items-center features-item">
           <div class="col-md-5 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="100">
-            <img src="assets/img/features-1.jpg" class="img-fluid" alt="">
+            <img src="assets/img/bww1.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7" data-aos="fade-up" data-aos-delay="100">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+            <h3>Roof Tank</h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+              Roof Tank adalah jenis tangki penyimpanan air yang ditempatkan di atap bangunan. Tangki ini dirancang untuk menampung dan menyimpan air hujan atau air dari sumber lain, yang kemudian dapat digunakan untuk berbagai keperluan seperti irigasi, menyiram toilet, atau mencuci pakaian.
             </p>
             <ul>
-              <li><i class="bi bi-check"></i><span> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-              <li><i class="bi bi-check"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-              <li><i class="bi bi-check"></i> <span>Ullam est qui quos consequatur eos accusamus.</span></li>
+              <li><i class="bi bi-check"></i><span>Kualitas Terbaik</span></li>
+              <li><i class="bi bi-check"></i> <span>Aman Digunakan</span></li>
+              <li><i class="bi bi-check"></i> <span>Tahan Lama</span></li>
             </ul>
           </div>
         </div><!-- Features Item -->
 
         <div class="row gy-4 align-items-center features-item">
           <div class="col-md-5 order-1 order-md-2 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-            <img src="assets/img/features-2.jpg" class="img-fluid" alt="">
+            <img src="assets/img/bww2.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 order-2 order-md-1" data-aos="fade-up" data-aos-delay="200">
-            <h3>Corporis temporibus maiores provident</h3>
+            <h3>Grease Trap</h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+              Grease trap adalah perangkat yang dirancang untuk menangkap dan memisahkan lemak, minyak, dan padatan dari air limbah sebelum air tersebut masuk ke sistem pembuangan.
             </p>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
+            <ul>
+              <li><i class="bi bi-check"></i> <span>Memisahkan Lemak dan Minyak</span></li>
+              <li><i class="bi bi-check"></i><span>Mencegah Penyumbatan</span></li>
+              <li><i class="bi bi-check"></i> <span>Mengurangi Dampak Lingkungan</span>.</li>
+            </ul>
           </div>
         </div><!-- Features Item -->
 
         <div class="row gy-4 align-items-center features-item">
           <div class="col-md-5 d-flex align-items-center" data-aos="zoom-out">
-            <img src="assets/img/features-3.jpg" class="img-fluid" alt="">
+            <img src="assets/img/bww3.png" class="img-fluid" alt="">
           </div>
           <div class="col-md-7" data-aos="fade-up">
-            <h3>Sunt consequatur ad ut est nulla consectetur reiciendis animi voluptas</h3>
-            <p>Cupiditate placeat cupiditate placeat est ipsam culpa. Delectus quia minima quod. Sunt saepe odit aut quia voluptatem hic voluptas dolor doloremque.</p>
+            <h3>Grease Trap Tanam</h3>
+            <p>Grease trap tanam adalah perangkat yang digunakan untuk menangkap dan memisahkan lemak, minyak, dan padatan dari air limbah sebelum air tersebut dibuang ke sistem pembuangan atau saluran pembuangan umum.</p>
             <ul>
-              <li><i class="bi bi-check"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-              <li><i class="bi bi-check"></i><span> Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-              <li><i class="bi bi-check"></i> <span>Facilis ut et voluptatem aperiam. Autem soluta ad fugiat</span>.</li>
+              <li><i class="bi bi-check"></i> <span>Membantu mencegah penyumbatan</span></li>
+              <li><i class="bi bi-check"></i><span>Mengurangi jumlah lemak dan minyak yang masuk ke sistem pembuangan</span></li>
+              <li><i class="bi bi-check"></i> <span>Membantu memperpanjang umur saluran pembuangan</span>.</li>
             </ul>
           </div>
         </div><!-- Features Item -->
 
         <div class="row gy-4 align-items-center features-item">
           <div class="col-md-5 order-1 order-md-2 d-flex align-items-center" data-aos="zoom-out">
-            <img src="assets/img/features-4.jpg" class="img-fluid" alt="">
+            <img src="assets/img/bww5.png" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 order-2 order-md-1" data-aos="fade-up">
-            <h3>Quas et necessitatibus eaque impedit ipsum animi consequatur incidunt in</h3>
+            <h3>Tangki Air Silinder</h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+              Tangki air silinder adalah wadah penyimpanan air yang berbentuk silinder, yang terbuat dari bahan seperti baja, plastik, atau fiberglass.
             </p>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
+            <ul>
+              <li><i class="bi bi-check"></i> <span>Daya tahan yang tinggi</span></li>
+              <li><i class="bi bi-check"></i><span>Pemeliharaan yang mudah</span></li>
+              <li><i class="bi bi-check"></i> <span>Dapat menampung volume air yang besar</span>.</li>
+            </ul>
           </div>
         </div><!-- Features Item -->
 
@@ -411,14 +386,13 @@
     </section><!-- /Features Section -->
 
     <!-- Pricing Section -->
-    <section id="pricing" class="pricing section">
+    <!-- <section id="pricing" class="pricing section">
 
-      <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <span>Pricing</span>
         <h2>Pricing</h2>
         <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-      </div><!-- End Section Title -->
+      </div>
 
       <div class="container">
 
@@ -437,7 +411,7 @@
               </ul>
               <a href="#" class="buy-btn">Buy Now</a>
             </div>
-          </div><!-- End Pricing Item -->
+          </div>
 
           <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="pricing-item featured">
@@ -452,7 +426,7 @@
               </ul>
               <a href="#" class="buy-btn">Buy Now</a>
             </div>
-          </div><!-- End Pricing Item -->
+          </div>
 
           <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="pricing-item">
@@ -467,13 +441,14 @@
               </ul>
               <a href="#" class="buy-btn">Buy Now</a>
             </div>
-          </div><!-- End Pricing Item -->
+          </div>
 
         </div>
 
       </div>
 
-    </section><!-- /Pricing Section -->
+    </section> -->
+    <!-- /Pricing Section -->
 
     <!-- Testimonials Section -->
     <section id="testimonials" class="testimonials section dark-background">
@@ -503,7 +478,7 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
+                <h3>Rizki Juliansah</h3>
                 <h4>Ceo &amp; Founder</h4>
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
@@ -548,38 +523,6 @@
               </div>
             </div><!-- End testimonial item -->
 
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
-                <h4>Freelancer</h4>
-                <div class="stars">
-                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                </div>
-                <p>
-                  <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.</span>
-                  <i class="bi bi-quote quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>John Larson</h3>
-                <h4>Entrepreneur</h4>
-                <div class="stars">
-                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                </div>
-                <p>
-                  <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.</span>
-                  <i class="bi bi-quote quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
-
           </div>
           <div class="swiper-pagination"></div>
         </div>
@@ -593,8 +536,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <span>Frequently Asked Questions</span>
-        <h2>Frequently Asked Questions</h2>
+        <span>Pertanyaan</span>
+        <h2>Pertanyaan</h2>
         <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
       </div><!-- End Section Title -->
 
