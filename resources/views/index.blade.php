@@ -48,10 +48,11 @@
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="/" class="active" data-lang="id">Beranda</a><a href="/" class="d-none" data-lang="en">Home</a></li>
-          <li><a href="/about" data-lang="id">Tentang</a><a href="/about" class="d-none" data-lang="en">About</a></li>
-          <li><a href="/services" data-lang="id">Layanan</a><a href="/services" class="d-none" data-lang="en">Services</a></li>
-          <li><a href="/contact" data-lang="id">Kontak</a><a href="/contact" class="d-none" data-lang="en">Contact</a></li>
+          <li><a href="#hero" data-lang="id">Beranda</a><a href="#hero" class="d-none" data-lang="en">Home</a></li>
+          <li><a href="#about" data-lang="id">Tentang</a><a href="#about" class="d-none" data-lang="en">About</a></li>
+          <li><a href="#services" data-lang="id">Layanan</a><a href="#services" class="d-none" data-lang="en">Services</a></li>
+          <li><a href="#product" data-lang="id">Produk</a><a href="#product" class="d-none" data-lang="en">Products</a></li>
+          <li><a href="#footer" data-lang="id">Kontak</a><a href="#footer" class="d-none" data-lang="en">Contact</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
@@ -245,15 +246,13 @@
               <li>
                 <i class="bi bi-diagram-3"></i>
                 <div>
-                  <h5>Ullamco laboris nisi ut aliquip consequat</h5>
-                  <p>Magni facilis facilis repellendus cum excepturi quaerat praesentium libre trade</p>
-                </div>
-              </li>
-              <li>
-                <i class="bi bi-fullscreen-exit"></i>
-                <div>
-                  <h5>Magnam soluta odio exercitationem reprehenderi</h5>
-                  <p>Quo totam dolorum at pariatur aut distinctio dolorum laudantium illo direna pasata redi</p>
+                  
+                  <h5 data-lang="id">Sumber Daya Manusia Yang Berkualitas</h5>
+                  <h5 data-lang="en" class="d-none">High-Quality Human Resources</h5>
+
+                  <p data-lang="id">Bali Waste Water memiliki sumber daya yang ahli di bidang pengelolaan limbah air, didukung oleh pelatihan berkelanjutan dan pengalaman yang luas.</p>
+                  <p data-lang="en" class="d-none">Bali Waste Water has experts in the field of wastewater management, supported by continuous training and extensive experience.</p>
+
                 </div>
               </li>
             </ul>
@@ -434,7 +433,7 @@
     </section><!-- /Call To Action Section -->
 
     <!-- Features Section -->
-    <section id="features" class="features section">
+    <section id="product" class="features section">
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
@@ -672,13 +671,20 @@
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
                 <h3>Rizki Juliansah</h3>
-                <h4>Ceo &amp; Founder</h4>
+
+                <h4 data-lang="id">Karyawan BUMN</h4>
+                <h4 data-lang="en" class="d-none">BUMN's employee</h4>
+
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</span>
+
+                  <span data-lang="id">Bali Waste Water sangat aman dan terpercaya, proses instalasi yang dilakukan sangat cepat dan transparan.</span>
+                  <span data-lang="en" class="d-none">Bali Waste Water is very safe and reliable, with installation processes that are carried out quickly and transparently.
+                  </span>
+
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
               </div>
@@ -687,30 +693,20 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
-                <h4>Designer</h4>
-                <div class="stars">
-                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                </div>
-                <p>
-                  <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.</span>
-                  <i class="bi bi-quote quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
+                <h3>Sarah</h3>
 
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
-                <h4>Store Owner</h4>
+                <h4 data-lang="id">Desainer</h4>
+                <h4 data-lang="en" class="d-none">Designer</h4>
+
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.</span>
+
+                  <span data-lang="id">Perusahaan ini memiliki kualitas yang sangat baik, sangat mudah untuk diandalkan.</span>
+                  <span data-lang="en" class="d-none">This company has excellent quality and is very easy to rely on.</span>
+
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
               </div>
@@ -748,46 +744,73 @@
 
               <div class="faq-item faq-active" data-aos="fade-up" data-aos-delay="200">
                 <i class="faq-icon bi bi-question-circle"></i>
-                <h3>Apa itu Perusahaan Bali Waste Water?</h3>
+
+                <h3 data-lang="id">Apa yang dilakukan oleh Bali Waste Water?</h3>
+                <h3 data-lang="en" class="d-none">What does Bali Waste Water do?</h3>
+
                 <div class="faq-content">
-                  <p>Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.</p>
+                  <p data-lang="id">
+                    Bali Waste Water adalah perusahaan yang bergerak di bidang perencanaan, pembangunan, perbaikan, dan perawatan Instalasi Pengolahan Air Limbah (IPAL). Kami memberikan solusi inovatif dan terpercaya dalam pengelolaan air limbah sesuai dengan regulasi lingkungan.
+                  </p>
+                  <p data-lang="en" class="d-none">
+                    Bali Waste Water is a company engaged in the planning, construction, repair, and maintenance of Wastewater Treatment Plants (WWTP). We provide innovative and reliable solutions for wastewater management in compliance with environmental regulations.
+                  </p>
                 </div>
+
                 <i class="faq-toggle bi bi-chevron-right"></i>
               </div><!-- End Faq item-->
 
               <div class="faq-item" data-aos="fade-up" data-aos-delay="300">
                 <i class="faq-icon bi bi-question-circle"></i>
-                <h3>Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque?</h3>
+
+                <h3 data-lang="id">Layanan apa saja yang ditawarkan Bali Waste Water?</h3>
+                <h3 data-lang="en" class="d-none">What services does Bali Waste Water offer?</h3>
+
                 <div class="faq-content">
-                  <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.</p>
+                  <p data-lang="id">
+                    Perencanaan dan pembangunan Instalasi Pengolahan Air Limbah, perbaikan dan perawatan instalasi Instalasi Pengolahan Air Limbah, serta pengurusan perizinan Instalasi Pengolahan Air Limbah.
+                  </p>
+                  <p data-lang="en" class="d-none">
+                    Planning and construction of Wastewater Treatment Plants (WWTP), repair and maintenance of wastewater treatment installations, and handling WWTP permits.
+                  </p>
                 </div>
+
                 <i class="faq-toggle bi bi-chevron-right"></i>
               </div><!-- End Faq item-->
 
               <div class="faq-item" data-aos="fade-up" data-aos-delay="400">
                 <i class="faq-icon bi bi-question-circle"></i>
-                <h3>Dolor sit amet consectetur adipiscing elit pellentesque?</h3>
-                <div class="faq-content">
-                  <p>Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
 
-              <div class="faq-item" data-aos="fade-up" data-aos-delay="500">
-                <i class="faq-icon bi bi-question-circle"></i>
-                <h3>Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?</h3>
+                <h3 data-lang="id">Mengapa harus memilih Bali Waste Water?</h3>
+                <h3 data-lang="en" class="d-none">Why choose Bali Waste Water?</h3>
+
                 <div class="faq-content">
-                  <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.</p>
+                  <p data-lang="id">
+                    Perusahaan kami didukung oleh teknisi bersertifikat, selalu mematuhi regulasi lingkungan, layanan yang kami berikan inovatif dan terpercaya, serta harga yang ditawarkan kompetitif dan transparan.
+                  </p>
+                  <p data-lang="en" class="d-none">
+                    Our company is supported by certified technicians, always complies with environmental regulations, provides innovative and reliable services, and offers competitive and transparent pricing.
+                  </p>
                 </div>
+
                 <i class="faq-toggle bi bi-chevron-right"></i>
               </div><!-- End Faq item-->
 
               <div class="faq-item" data-aos="fade-up" data-aos-delay="600">
                 <i class="faq-icon bi bi-question-circle"></i>
-                <h3>Tempus quam pellentesque nec nam aliquam sem et tortor consequat?</h3>
+
+                <h3 data-lang="id">Apa misi utama Bali Waste Water?</h3>
+                <h3 data-lang="en" class="d-none">What is the main mission of Bali Waste Water?</h3>
+
                 <div class="faq-content">
-                  <p>Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in</p>
+                  <p data-lang="id">
+                    Memberikan solusi yang tepat dalam pengelolaan air limbah, menyediakan jasa perawatan Pengolahan Air Limbah dengan layanan lengkap dan harga kompetitif, serta mematuhi dan memenuhi ketentuan pengelolaan lingkungan.
+                  </p>
+                  <p data-lang="en" class="d-none">
+                    Delivering effective solutions for wastewater management, providing comprehensive wastewater treatment maintenance services at competitive prices, and ensuring compliance with environmental regulations.
+                  </p>
                 </div>
+
                 <i class="faq-toggle bi bi-chevron-right"></i>
               </div><!-- End Faq item-->
 
@@ -821,7 +844,7 @@
           </p>
 
           <div class="social-links d-flex mt-4">
-            <a href=""><i class="bi bi-twitter-x"></i></a>
+            <a href="https://drive.google.com/drive/folders/1eEbO_PHQA-iwbETARETuYXtmg2pAIqpP?usp=sharing" target="_blank"><i class="bi bi-filetype-pdf"></i></a>
             <a href=""><i class="bi bi-facebook"></i></a>
             <a href=""><i class="bi bi-instagram"></i></a>
             <a href=""><i class="bi bi-linkedin"></i></a>
@@ -829,24 +852,45 @@
         </div>
 
         <div class="col-lg-2 col-6 footer-links">
-          <h4>Useful Links</h4>
+          <h4 data-lang="id">Tautan Berguna</h4>
+          <h4 data-lang="en" class="d-none">Useful Links</h4>
+
           <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About us</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Terms of service</a></li>
-            <li><a href="#">Privacy policy</a></li>
+            <li><a href="/" data-lang="id">Beranda</a>
+              <a href="/" data-lang="en" class="d-none">Home</a>
+            </li>
+
+            <li><a href="/about" data-lang="id">Tentang Kami</a>
+              <a href="/about" data-lang="en" class="d-none">About us</a>
+            </li>
+
+            <li><a href="/services" data-lang="id">Layanan</a>
+              <a href="/services" data-lang="en" class="d-none">Services</a>
+            </li>
+
+            <li><a href="/contact" data-lang="id">Kontak</a>
+              <a href="/contact" data-lang="en" class="d-none">Contact</a>
+            </li>
           </ul>
+
         </div>
 
         <div class="col-lg-2 col-6 footer-links">
-          <h4>Our Services</h4>
+          <h4 data-lang="id">Layanan Kami</h4>
+          <h4 data-lang="en" class="d-none">Our Services</h4>
+
           <ul>
-            <li><a href="#">Web Design</a></li>
-            <li><a href="#">Web Development</a></li>
-            <li><a href="#">Product Management</a></li>
-            <li><a href="#">Marketing</a></li>
-            <li><a href="#">Graphic Design</a></li>
+            <li data-lang="id">Perencanaan Air Limbah</li>
+            <li data-lang="en" class="d-none">Wastewater Planning</li>
+
+            <li data-lang="id">Instalasi Pengolahan Air</li>
+            <li data-lang="en" class="d-none">Water Treatment Installation</li>
+
+            <li data-lang="id">Perawatan Pengolahan Air</li>
+            <li data-lang="en" class="d-none">Water Treatment Maintenance</li>
+
+            <li data-lang="id">Perbaikan Pengolahan Air</li>
+            <li data-lang="en" class="d-none">Water Treatment Repair</li>
           </ul>
         </div>
 
