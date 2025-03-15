@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Bali Waste Water - Solusi Pengelolaan Air Limbah</title>
+  <title data-lang="id">Bali Waste Water - Solusi Pengelolaan Air Limbah</title>
   <meta name="description" content="Bali Waste Water menyediakan solusi inovatif untuk pengelolaan air limbah. Kami berkomitmen untuk keberlanjutan lingkungan dengan pendekatan ramah lingkungan dan teknologi modern.">
   <meta name="keywords" content="Bali Waste Water, pengelolaan air limbah, IPAL, solusi berkelanjutan, wastewater management, lingkungan, sustainability">
   <meta name="author" content="Bali Waste Water">
@@ -68,6 +68,7 @@
           <li><a href="#services" data-lang="id">Layanan</a><a href="#services" class="d-none" data-lang="en">Services</a></li>
           <li><a href="#product" data-lang="id">Produk</a><a href="#product" class="d-none" data-lang="en">Products</a></li>
           <li><a href="#footer" data-lang="id">Kontak</a><a href="#footer" class="d-none" data-lang="en">Contact</a></li>
+          <li><a href="/portfolio" data-lang="id">Portofolio</a><a href="/portfolio" class="d-none" data-lang="en">Portfolio</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
@@ -472,7 +473,7 @@
 
         <div class="row gy-4 align-items-center features-item">
           <div class="col-md-5 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="100">
-            <img src="assets/img/bww1.jpg" class="img-fluid" alt="">
+            <img src="assets/img/rooftank.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7" data-aos="fade-up" data-aos-delay="100">
 
@@ -497,7 +498,7 @@
 
         <div class="row gy-4 align-items-center features-item">
           <div class="col-md-5 order-1 order-md-2 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-            <img src="assets/img/bww2.jpg" class="img-fluid" alt="">
+            <img src="assets/img/bww3.png" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 order-2 order-md-1" data-aos="fade-up" data-aos-delay="200">
 
@@ -522,7 +523,7 @@
 
         <div class="row gy-4 align-items-center features-item">
           <div class="col-md-5 d-flex align-items-center" data-aos="zoom-out">
-            <img src="assets/img/bww3.png" class="img-fluid" alt="">
+            <img src="assets/img/greasetanam.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7" data-aos="fade-up">
 
@@ -590,18 +591,18 @@
 
         <div class="row gy-4 align-items-center features-item">
           <div class="col-md-5 d-flex align-items-center" data-aos="zoom-out">
-            <img src="assets/img/fiber-stp.jpg" class="img-fluid" alt="">
+            <img src="assets/img/septictank.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7" data-aos="fade-up">
 
-            <h3 data-lang="id">Tangki Septic Tank Fiberglass</h3>
-            <h3 data-lang="en" class="d-none">Fiberglass Septic Tank</h3>
+            <h3 data-lang="id">Tangki Septik</h3>
+            <h3 data-lang="en" class="d-none">Septic Tank</h3>
 
             <p data-lang="id">
-              Septic tank fiberglass adalah tangki atau wadah yang terbuat dari bahan fiber yang digunakan untuk mengolah limbah cair rumah tangga, seperti kotoran dan air buangan dari kamar mandi atau dapur.
+              Septic tank adalah tangki atau wadah yang digunakan untuk mengolah limbah cair rumah tangga, seperti kotoran dan air buangan dari kamar mandi atau dapur.
             </p>
             <p data-lang="en" class="d-none">
-              A fiberglass septic tank is a tank or container made of fiber material used to process household liquid waste, such as sewage and wastewater from bathrooms or kitchens.
+              A septic tank is a tank or container used to process household liquid waste, such as sewage and wastewater from bathrooms or kitchens.
             </p>
 
             <ul>
@@ -628,28 +629,28 @@
           </div>
           <div class="col-md-7 order-2 order-md-1" data-aos="fade-up">
 
-            <h3 data-lang="id">Tangki Septic Tank</h3>
-            <h3 data-lang="en" class="d-none">Septic Tank</h3>
+            <h3 data-lang="id">Filter Air</h3>
+            <h3 data-lang="en" class="d-none">Water Filter</h3>
 
             <p class="fst-italic" data-lang="id">
-              Septic tank adalah tangki atau wadah yang digunakan untuk mengolah limbah cair rumah tangga, seperti kotoran dan air buangan dari kamar mandi atau dapur.
+              Filter air adalah alat yang dirancang untuk menyaring air dari kontaminan, kotoran, atau zat yang tidak diinginkan, sehingga menghasilkan air yang lebih bersih.
             </p>
             <p class="fst-italic d-none" data-lang="en">
-              A septic tank is a tank or container used to process household liquid waste, such as sewage and wastewater from bathrooms or kitchens.
+              A water filter is a device designed to filter water from contaminants, dirt, or unwanted substances, resulting in cleaner water.
             </p>
 
             <ul>
               <li><i class="bi bi-check"></i>
-                <span data-lang="id">Menyaring limbah cair</span>
-                <span data-lang="en" class="d-none">Filters liquid waste</span>
+                <span data-lang="id">Menyaring partikel kasar dan kotoran</span>
+                <span data-lang="en" class="d-none">Filters coarse particles and dirt</span>
               </li>
               <li><i class="bi bi-check"></i>
-                <span data-lang="id">Mencegah polusi lingkungan</span>
-                <span data-lang="en" class="d-none">Prevents environmental pollution</span>
+                <span data-lang="id">Menghilangkan zat kimia berbahaya</span>
+                <span data-lang="en" class="d-none">Removes harmful chemicals</span>
               </li>
               <li><i class="bi bi-check"></i>
-                <span data-lang="id">Mengurangi risiko penyumbatan</span>
-                <span data-lang="en" class="d-none">Reduces the risk of clogging</span>
+                <span data-lang="id">Membasmi mikroorganisme berbahaya</span>
+                <span data-lang="en" class="d-none">Eliminates harmful microorganisms</span>
               </li>
             </ul>
 
@@ -939,7 +940,7 @@
           </p>
 
           <div class="social-links d-flex mt-4">
-            <a href="https://drive.google.com/drive/folders/1eEbO_PHQA-iwbETARETuYXtmg2pAIqpP?usp=sharing" target="_blank"><i class="bi bi-filetype-pdf"></i></a>
+            <a href="https://drive.google.com/drive/folders/1gyXOLu37S_kFUiO1GDUx-G4ggtQqB4du?usp=sharing" target="_blank"><i class="bi bi-filetype-pdf"></i></a>
             <a href=""><i class="bi bi-facebook"></i></a>
             <a href=""><i class="bi bi-instagram"></i></a>
             <a href=""><i class="bi bi-linkedin"></i></a>
