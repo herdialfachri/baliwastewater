@@ -4,29 +4,44 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Bali Waste Water</title>
-  <meta name="description" content="">
-  <meta name="keywords" content="">
+  <title>Bali Waste Water - Solusi Pengelolaan Air Limbah</title>
+  <meta name="description" content="Bali Waste Water menyediakan solusi inovatif untuk pengelolaan air limbah. Kami berkomitmen untuk keberlanjutan lingkungan dengan pendekatan ramah lingkungan dan teknologi modern.">
+  <meta name="keywords" content="Bali Waste Water, pengelolaan air limbah, IPAL, solusi berkelanjutan, wastewater management, lingkungan, sustainability">
+  <meta name="author" content="Bali Waste Water">
+  <meta name="robots" content="index, follow">
 
   <!-- Favicons -->
-  <link href="assets/img/bww.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="https://baliwastewater.com/assets/img/bww.png" rel="icon">
+  <link href="https://baliwastewater.com/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">
   <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&display=swap" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-  <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
-  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="https://baliwastewater.com/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://baliwastewater.com/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="https://baliwastewater.com/assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="https://baliwastewater.com/assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+  <link href="https://baliwastewater.com/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="https://baliwastewater.com/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <!-- Main CSS File -->
-  <link href="assets/css/main.css" rel="stylesheet">
+  <link href="https://baliwastewater.com/assets/css/main.css" rel="stylesheet">
+
+  <!-- Open Graph Meta Tags -->
+  <meta property="og:title" content="Bali Waste Water - Solusi Pengelolaan Air Limbah">
+  <meta property="og:description" content="Solusi inovatif untuk pengelolaan air limbah yang berkelanjutan di Bali dan sekitarnya.">
+  <meta property="og:image" content="https://baliwastewater.com/assets/img/bww.png">
+  <meta property="og:url" content="https://baliwastewater.com">
+  <meta property="og:type" content="website">
+
+  <!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Bali Waste Water - Solusi Pengelolaan Air Limbah">
+  <meta name="twitter:description" content="Temukan solusi ramah lingkungan untuk pengelolaan limbah air dengan Bali Waste Water.">
+  <meta name="twitter:image" content="https://baliwastewater.com/assets/img/bww.png">
 
   <!-- =======================================================
   * Template Name: Logis
@@ -228,7 +243,7 @@
         <div class="row gy-4">
 
           <div class="col-lg-6 position-relative align-self-start order-lg-last order-first" data-aos="fade-up" data-aos-delay="200">
-            <img src="assets/img/kantorbww.png" class="img-fluid" alt="">
+            <img src="assets/img/aboutus.jpg" class="img-fluid" alt="">
             <!-- <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox pulsating-play-btn"></a> -->
           </div>
 
@@ -246,12 +261,12 @@
               <li>
                 <i class="bi bi-diagram-3"></i>
                 <div>
-                  
-                  <h5 data-lang="id">Sumber Daya Manusia Yang Berkualitas</h5>
-                  <h5 data-lang="en" class="d-none">High-Quality Human Resources</h5>
 
-                  <p data-lang="id">Bali Waste Water memiliki sumber daya yang ahli di bidang pengelolaan limbah air, didukung oleh pelatihan berkelanjutan dan pengalaman yang luas.</p>
-                  <p data-lang="en" class="d-none">Bali Waste Water has experts in the field of wastewater management, supported by continuous training and extensive experience.</p>
+                  <h5 data-lang="id">Alamat Bengkel</h5>
+                  <h5 data-lang="en" class="d-none">Workshop Address</h5>
+
+                  <p data-lang="id">Jl. Denpasar-Singaraja, Mengwi, Badung, Bali 80351</p>
+                  <p data-lang="en" class="d-none">Jl. Denpasar-Singaraja, Mengwi, Badung, Bali 80351</p>
 
                 </div>
               </li>
@@ -310,7 +325,7 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/3.png" alt="" class="img-fluid">
+                <img src="assets/img/instalasi.jpg" alt="" class="img-fluid">
               </div>
 
               <h3>
@@ -352,7 +367,7 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/5.png" alt="" class="img-fluid">
+                <img src="assets/img/pemeliharaan.jpg" alt="" class="img-fluid">
               </div>
 
               <h3>
@@ -373,7 +388,7 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/6.png" alt="" class="img-fluid">
+                <img src="assets/img/perbaikan.jpg" alt="" class="img-fluid">
               </div>
 
               <h3 data-lang="id">Perbaikan</h3>
@@ -422,8 +437,8 @@
               <p data-lang="id">Ayo Konsultasi dan Percayakan pengelolaan limbah air anda dengan kami</p>
               <p data-lang="en" class="d-none">Let's Consult and Entrust Your Wastewater Management to Us</p>
 
-              <a class="cta-btn" href="https://wa.me/62895396196740" data-lang="id" target="_blank">Konsultasi Sekarang</a>
-              <a class="cta-btn d-none" href="https://wa.me/62895396196740" data-lang="en" target="_blank">Consult Now</a>
+              <a class="cta-btn" href="https://wa.me/6281228868171" data-lang="id" target="_blank">Konsultasi Sekarang</a>
+              <a class="cta-btn d-none" href="https://wa.me/6281228868171" data-lang="en" target="_blank">Consult Now</a>
 
             </div>
           </div>
@@ -567,6 +582,74 @@
               <li><i class="bi bi-check"></i>
                 <span data-lang="id">Dapat menampung volume air yang besar</span>
                 <span data-lang="en" class="d-none">Can store a large volume of water</span>
+              </li>
+            </ul>
+
+          </div>
+        </div><!-- Features Item -->
+
+        <div class="row gy-4 align-items-center features-item">
+          <div class="col-md-5 d-flex align-items-center" data-aos="zoom-out">
+            <img src="assets/img/fiber-stp.jpg" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-7" data-aos="fade-up">
+
+            <h3 data-lang="id">Tangki Septic Tank Fiberglass</h3>
+            <h3 data-lang="en" class="d-none">Fiberglass Septic Tank</h3>
+
+            <p data-lang="id">
+              Septic tank fiberglass adalah tangki atau wadah yang terbuat dari bahan fiber yang digunakan untuk mengolah limbah cair rumah tangga, seperti kotoran dan air buangan dari kamar mandi atau dapur.
+            </p>
+            <p data-lang="en" class="d-none">
+              A fiberglass septic tank is a tank or container made of fiber material used to process household liquid waste, such as sewage and wastewater from bathrooms or kitchens.
+            </p>
+
+            <ul>
+              <li><i class="bi bi-check"></i>
+                <span data-lang="id">Menyaring limbah cair</span>
+                <span data-lang="en" class="d-none">Filters liquid waste</span>
+              </li>
+              <li><i class="bi bi-check"></i>
+                <span data-lang="id">Mencegah polusi lingkungan</span>
+                <span data-lang="en" class="d-none">Prevents environmental pollution</span>
+              </li>
+              <li><i class="bi bi-check"></i>
+                <span data-lang="id">Mengurangi risiko penyumbatan</span>
+                <span data-lang="en" class="d-none">Reduces the risk of clogging</span>
+              </li>
+            </ul>
+
+          </div>
+        </div><!-- Features Item -->
+
+        <div class="row gy-4 align-items-center features-item">
+          <div class="col-md-5 order-1 order-md-2 d-flex align-items-center" data-aos="zoom-out">
+            <img src="assets/img/stp.jpg" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-7 order-2 order-md-1" data-aos="fade-up">
+
+            <h3 data-lang="id">Tangki Septic Tank</h3>
+            <h3 data-lang="en" class="d-none">Septic Tank</h3>
+
+            <p class="fst-italic" data-lang="id">
+              Septic tank adalah tangki atau wadah yang digunakan untuk mengolah limbah cair rumah tangga, seperti kotoran dan air buangan dari kamar mandi atau dapur.
+            </p>
+            <p class="fst-italic d-none" data-lang="en">
+              A septic tank is a tank or container used to process household liquid waste, such as sewage and wastewater from bathrooms or kitchens.
+            </p>
+
+            <ul>
+              <li><i class="bi bi-check"></i>
+                <span data-lang="id">Menyaring limbah cair</span>
+                <span data-lang="en" class="d-none">Filters liquid waste</span>
+              </li>
+              <li><i class="bi bi-check"></i>
+                <span data-lang="id">Mencegah polusi lingkungan</span>
+                <span data-lang="en" class="d-none">Prevents environmental pollution</span>
+              </li>
+              <li><i class="bi bi-check"></i>
+                <span data-lang="id">Mengurangi risiko penyumbatan</span>
+                <span data-lang="en" class="d-none">Reduces the risk of clogging</span>
               </li>
             </ul>
 
@@ -824,6 +907,18 @@
 
     </section><!-- /Faq Section -->
 
+    <section id="contact" class="contact section">
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="mb-4" data-aos="fade-up" data-aos-delay="200">
+          <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3944.63724956862!2d115.21859277576229!3d-8.630779391415542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd23f00785da06d%3A0xb2f3239ed1cadfe!2sBali%20waste%20water!5e0!3m2!1sen!2sid!4v1742058263008!5m2!1sen!2sid" frameborder="0" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div><!-- End Google Maps -->
+
+      </div>
+
+    </section><!-- /Contact Section -->
+
   </main>
 
   <footer id="footer" class="footer dark-background">
@@ -906,7 +1001,7 @@
           <p class="mt-4">
             <strong data-lang="id">Telepon:</strong>
             <strong data-lang="en" class="d-none">Phone:</strong>
-            <span>+1 5589 55488 55</span>
+            <span>+62 812 2886 8171</span>
           </p>
 
           <p>
@@ -918,7 +1013,7 @@
     </div>
 
     <div class="container copyright text-center mt-4">
-      <p data-lang="id">© <span>Hak Cipta</span> <strong class="px-1 sitename">Bali Waste Water</strong></p>
+      <p data-lang="id">© <span>Hak Cipta</span> <strong class="px-1 sitename">Bali Waste Water 2025</strong></p>
       <p data-lang="en" class="d-none">© <span>Copyright</span> <strong class="px-1 sitename">Bali Waste Water</strong></p>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
