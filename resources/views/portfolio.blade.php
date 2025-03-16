@@ -51,8 +51,8 @@
       <nav id="navmenu" class="navmenu">
         <ul>
           <li><a href="/" data-lang="id">Beranda</a><a href="/" class="d-none" data-lang="en">Home</a></li>
-          <li><a href="#footer" data-lang="id">Kontak</a><a href="#footer" class="d-none" data-lang="en">Contact</a></li>
           <li><a href="#portfolio" data-lang="id">Portofolio</a><a href="#portfolio" class="d-none" data-lang="en">Portfolio</a></li>
+          <li><a href="#footer" data-lang="id">Kontak</a><a href="#footer" class="d-none" data-lang="en">Contact</a></li>         
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
@@ -242,16 +242,12 @@
               <a href="/" data-lang="en" class="d-none">Home</a>
             </li>
 
-            <li><a href="/about" data-lang="id">Tentang Kami</a>
-              <a href="/about" data-lang="en" class="d-none">About us</a>
+            <li><a href="#portfolio" data-lang="id">Portofolio</a>
+              <a href="#portfolio" data-lang="en" class="d-none">Portfolio</a>
             </li>
 
-            <li><a href="/services" data-lang="id">Layanan</a>
-              <a href="/services" data-lang="en" class="d-none">Services</a>
-            </li>
-
-            <li><a href="/contact" data-lang="id">Kontak</a>
-              <a href="/contact" data-lang="en" class="d-none">Contact</a>
+            <li><a href="#footer" data-lang="id">Kontak</a>
+              <a href="#footer" data-lang="en" class="d-none">Contact</a>
             </li>
           </ul>
 
